@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "f3a1c5e5d89962d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2e678c9ff24776d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4588754263dc657a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAY 1 — PostgreSQL Foundations for Odoo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAY 1 — PostgreSQL Foundations for Odoo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6be730a23f28fb11",
+    "type": "split",
+    "children": [
+      {
+        "id": "3539dce5bd6b4ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f375936e87fe43a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a8a58594344b98be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21cbcc5ab4a9b6cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f79d6e2e4de159ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0e8007310e92a98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d4343b975eb219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DAY 1 — PostgreSQL Foundations for Odoo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DAY 1 — PostgreSQL Foundations for Odoo"
+            }
+          },
+          {
+            "id": "8050c3872f6d7d49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DAY 1 — PostgreSQL Foundations for Odoo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DAY 1 — PostgreSQL Foundations for Odoo"
+            }
+          },
+          {
+            "id": "1af22d0414486d88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6b82940d04b9f36b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5b7446c39c33540a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DAY 1 — PostgreSQL Foundations for Odoo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DAY 1 — PostgreSQL Foundations for Odoo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1f375936e87fe43a",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "DAY 1 — PostgreSQL Foundations for Odoo.md"
+  ]
+}
