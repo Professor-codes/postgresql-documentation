@@ -1,5 +1,5 @@
 
-## 1️⃣ What Is Data? (Starting From Zero)
+## 1️⃣ What Is Data?
 
 ### Simple Explanation
 
@@ -39,7 +39,7 @@ A database:
 - Excel ❌ (single user, unsafe)
 - Database ✅ (multi-user, safe, fast)
 
-## 3️⃣ Tables, Rows, Columns (VERY IMPORTANT)
+## 3️⃣ Tables, Rows, Columns
 
 ### Table
 
@@ -68,7 +68,7 @@ A database:
 
 - This row = one partner in Odoo UI
 
-## 4️⃣ Relational Databases (Why PostgreSQL)
+## 4️⃣ Relational Databases
 
 ### Relational Means:
 
@@ -83,7 +83,7 @@ A database:
 
 👉 Odoo is **100% relational**
 
-## 5️⃣ Why PostgreSQL Specifically (Critical for Odoo)
+## 5️⃣ Why PostgreSQL Specifically
 
 ### PostgreSQL Strengths
 
@@ -104,7 +104,7 @@ A database:
 
 > If PostgreSQL is slow or broken, **Odoo is slow or broken**
 
-## 6️⃣ PostgreSQL vs Odoo (Who Does What?)
+## 6️⃣ PostgreSQL vs Odoo
 
 ### PostgreSQL Responsibilities
 
@@ -122,7 +122,7 @@ A database:
 
 👉 **Odoo does NOT protect you from bad database decisions**
 
-## 7️⃣ Odoo ORM — First Concept (No Code)
+## 7️⃣ Odoo ORM — First Concept
 
 ### ORM = Object Relational Mapping
 
@@ -159,7 +159,7 @@ Example:
 
 👉 **Never test in production database**
 
-## 9️⃣ PostgreSQL Server vs Database vs Table (NO CONFUSION)
+## 9️⃣ PostgreSQL Server vs Database vs Table
 
 ### PostgreSQL Server
 
@@ -183,4 +183,3 @@ PostgreSQL Server
  │    └── account_move
  └── odoo_test
 ```
-

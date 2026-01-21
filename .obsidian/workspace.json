@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f79d6e2e4de159ab",
@@ -183,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f375936e87fe43a",
+  "active": "4588754263dc657a",
   "lastOpenFiles": [
     "Untitled.base",
     "DAY 1 — PostgreSQL Foundations for Odoo.md"
